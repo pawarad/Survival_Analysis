@@ -5,3 +5,5 @@ Data - TCGA Pancreatic Cancer RNA seq data (https://github.com/rmoffitt/pdacR/bl
 Basics of Survival Analysis in R (http://www.sthda.com/english/wiki/survival-analysis-basics)
 
 R shiny web app (http://bioinformatics.sdstate.edu/idep/)
+
+Shiny code to refer - (https://www.youtube.com/watch?v=cOfKmgxBCso)
