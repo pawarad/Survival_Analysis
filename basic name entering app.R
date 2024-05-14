@@ -1,3 +1,12 @@
+install.packages(c("survival", "survminer"))
+
+library("survival")
+library("survminer")
+
+data(cancer, package="survival")
+head(lung)
+#####-------------------- R Shiny-------------------------
+
 library(shiny)
 
 ui <- fluidPage(
@@ -8,7 +17,7 @@ ui <- fluidPage(
     ),
     mainPanel(
       paste("You are entering"),
-        textOutput("textOutput")
+      textOutput("textOutput")
     )
   )  
 )
@@ -20,4 +29,3 @@ server <- shinyServer(function(input,output){
 })
 
 shinyApp(ui=ui, server = server)
-
