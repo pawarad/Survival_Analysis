@@ -12,3 +12,6 @@ Day 1
 - Create basic Kaplan M curve using (http://www.sthda.com/english/wiki/survival-analysis-basics)
 - Create a shiny app (https://www.youtube.com/watch?v=cOfKmgxBCso) display title, any kind of button by clicking that button we should be able to see Kaplan M plot
 - Upload the code on this github repo.
+
+Day 2
+- Try to implement (https://github.com/jeffreythy/survival-analysis-shiny-app/tree/master) repo using our lung dat and using 2 categories (status, sex)
