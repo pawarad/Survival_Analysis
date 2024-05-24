@@ -1,5 +1,7 @@
 # Survival_Analysis
 
+Set up R studio on AWS EC2 (https://docs.elmcomputing.io/ami/x86/rstudio-steps.html)
+
 Data - TCGA Pancreatic Cancer RNA seq data (https://github.com/rmoffitt/pdacR/blob/master/R/parse_TCGA_PAAD.R)
 
 Basics of Survival Analysis in R (http://www.sthda.com/english/wiki/survival-analysis-basics)
