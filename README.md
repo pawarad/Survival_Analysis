@@ -15,3 +15,9 @@ Day 1
 
 Day 2
 - Try to implement (https://github.com/jeffreythy/survival-analysis-shiny-app/tree/master) repo using our lung dat and using 2 categories (status, sex)
+
+
+RNA-seq + CHip-seq integrated analysis
+- CHIP-seq data for PAAD cancer cell lines (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6122955/)
+- RNA-seq data for PAAD cancer in also available in the same paper
+- Integrated analysis (https://static-content.springer.com/esm/art%3A10.1186%2Fs12864-020-07205-6/MediaObjects/12864_2020_7205_MOESM1_ESM.pdf)
