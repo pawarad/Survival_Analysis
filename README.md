@@ -27,3 +27,15 @@ RNA-seq + CHip-seq integrated analysis
 - To install R studio and R from scratch select right ubuntu instance. 24 and 22 is not working. Check each step while installing these packages. 
 https://jagg19.github.io/2019/08/aws-r/#long_way
 https://posit.co/download/rstudio-server/
+
+
+Day 4,5,6,7 (AAkash)
+Now you have a bot of understanding of how R studio and R shiny works. A bit about backend, frontend and how to connect both of them. 
+Let's dive deep into bigger stuff. Try to replicate (http://bioinformatics.sdstate.edu/idep96/) this web app. I want you to understand and figure out things by yourself. The art of coding is unserstanding each line of code, how to reuse codes from other people to build your own, which right questions to ask on google to solve your errors, understanding them and fixing it. I want you to learn it by yourself. If stuck just google or use chatgpt free version and try to learn.
+
+Here is the code for the above website (https://github.com/iDEP-SDSU/idep/tree/master/shinyapps/idep96). From the entire code I just want you to try and replicate the first 2 tabs (load data and pre process). Don't just try to paste the code. Understand the code and build your own using their components. Google each and every term which you don't understand. I will leave you by yourself for 2 days and will meet on Tuesday. 
+
+1) Understand the content in the first 2 tabs. Enough things are provided on the website for you to navigate and understand.
+2) Try to understand the shiny code from their github account.
+3) Now build your own shiny code just for the first 2 tabs.
+4) YOu can use the demo data which they have provided as your data to work with.
