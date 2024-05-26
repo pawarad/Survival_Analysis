@@ -23,3 +23,7 @@ RNA-seq + CHip-seq integrated analysis
 - CHIP-seq data for PAAD cancer cell lines (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6122955/)
 - RNA-seq data for PAAD cancer in also available in the same paper
 - Integrated analysis (https://static-content.springer.com/esm/art%3A10.1186%2Fs12864-020-07205-6/MediaObjects/12864_2020_7205_MOESM1_ESM.pdf)
+
+- To install R studio and R from scratch select right ubuntu instance. 24 and 22 is not working. Check each step while installing these packages. 
+https://jagg19.github.io/2019/08/aws-r/#long_way
+https://posit.co/download/rstudio-server/
